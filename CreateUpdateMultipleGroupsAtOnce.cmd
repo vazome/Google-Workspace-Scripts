@@ -1,0 +1,1 @@
+gam csv "$HOME\Desktop\Dist.csv" gam create group ~email name ~name who_can_join INVITED_CAN_JOIN who_can_view_membership ALL_MANAGERS_CAN_VIEW who_can_view_group ALL_MANAGERS_CAN_VIEW who_can_invite ALL_OWNERS_CAN_INVITE allow_external_members false archiveonly true whocanpostmessage none_can_post allow_web_posting false
